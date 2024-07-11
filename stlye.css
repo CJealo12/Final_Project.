@@ -128,7 +128,8 @@ header.shadow {
 .home-text p {
   font-size: var(--p-font);
   font-weight: 400;
-  margin: 0.7rem 0 1rem;
+  margin: 1rem 2rem;
+	
 }
 .social {
   display: flex;
